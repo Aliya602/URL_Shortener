@@ -20,11 +20,10 @@ TinyURL API (https://tinyurl.com/) - Free, no API key required
 
 ## How to run 🔃
 
-# Install dependencies
 pip install -r requirements.txt
 
-# Run simple version
+Run simple version
 python url_shortener_simple.py (terminal)
 
-# Run advanced version
+Run advanced version
 python url_shortener_advanced.py(terminal)
